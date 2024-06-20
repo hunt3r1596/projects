@@ -1,10 +1,10 @@
-package org.example.arrays_strings;
+package org.example.Leetcode75.C1_Arrays_Strings;
 
 
 /*
 https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
  */
-public class MergeStringsAlternately {
+public class P1_MergeStringsAlternately {
 
     public static String mergeAlternately(String word1, String word2) {
         StringBuilder sb = new StringBuilder();

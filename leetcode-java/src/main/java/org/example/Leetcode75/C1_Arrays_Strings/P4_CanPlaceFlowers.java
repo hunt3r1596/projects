@@ -1,12 +1,9 @@
-package org.example.arrays_strings;
-
-import java.util.HashMap;
-import java.util.Map;
+package org.example.Leetcode75.C1_Arrays_Strings;
 
 /*
 https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75
  */
-public class CanPlaceFlowers {
+public class P4_CanPlaceFlowers {
 
     public static boolean getPossiblePlaces(int[] flowerbed, int n) {
         int places = 0;
