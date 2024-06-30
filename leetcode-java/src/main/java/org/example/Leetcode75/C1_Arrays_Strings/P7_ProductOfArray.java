@@ -1,9 +1,9 @@
-package org.example.arrays_strings;
+package org.example.Leetcode75.C1_Arrays_Strings;
 
 /*
 https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75
  */
-public class ProductOfArray {
+public class P7_ProductOfArray {
 
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4};

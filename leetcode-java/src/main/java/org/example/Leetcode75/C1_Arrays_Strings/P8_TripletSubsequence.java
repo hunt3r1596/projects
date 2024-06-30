@@ -1,9 +1,9 @@
-package org.example.arrays_strings;
+package org.example.Leetcode75.C1_Arrays_Strings;
 
 /*
 https://leetcode.com/problems/increasing-triplet-subsequence/description/?envType=study-plan-v2&envId=leetcode-75
  */
-public class TripletSubsequence {
+public class P8_TripletSubsequence {
 
     public static void main(String[] args) {
         int[] nums = {5, 4, 3, 2, 1};

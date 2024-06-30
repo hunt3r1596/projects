@@ -1,11 +1,11 @@
-package org.example.arrays_strings;
+package org.example.Leetcode75.C1_Arrays_Strings;
 
 import java.util.*;
 
 /*
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75
  */
-public class GreatestNumberOfCandies {
+public class P3_GreatestNumberOfCandies {
 
     public static List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         List<Boolean> canHaveMax = new ArrayList<>();

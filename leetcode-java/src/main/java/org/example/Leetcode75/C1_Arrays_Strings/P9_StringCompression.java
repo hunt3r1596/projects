@@ -1,13 +1,14 @@
-package org.example.arrays_strings;
+package org.example.Leetcode75.C1_Arrays_Strings;
 
 /*
 
  */
-public class StringCompression {
+public class P9_StringCompression {
 
     public static void main(String[] args) {
 //        String input = "aabcccccaaa";
-        String input = "a";
+        String input = "aabbcc";
+//        String input = "a";
         System.out.println(compress(input.toCharArray()));
     }
 
@@ -45,4 +46,5 @@ public class StringCompression {
         System.out.println();
         return output_index;
     }
+
 }

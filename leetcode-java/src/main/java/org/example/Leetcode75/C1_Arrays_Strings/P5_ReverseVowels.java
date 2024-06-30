@@ -1,9 +1,9 @@
-package org.example.arrays_strings;
+package org.example.Leetcode75.C1_Arrays_Strings;
 
 /*
 https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75
  */
-public class ReverseVowels {
+public class P5_ReverseVowels {
 
     public static String reverseVowels(String word) {
         String vowels = "aeiouAEIOU";

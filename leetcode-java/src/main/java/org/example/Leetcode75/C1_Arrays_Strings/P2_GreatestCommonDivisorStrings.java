@@ -1,10 +1,10 @@
-package org.example.arrays_strings;
+package org.example.Leetcode75.C1_Arrays_Strings;
 
 
 /*
 https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75
  */
-public class GreatestCommonDivisorStrings {
+public class P2_GreatestCommonDivisorStrings {
 
     public static boolean valid(String str1, String str2, int k) {
         int len1 = str1.length();
